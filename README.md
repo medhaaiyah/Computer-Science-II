@@ -1,5 +1,7 @@
 # Computer-Science-II
 
+In this class, I learned the basics of programming in Java.
+
 # Project 1
 
 In this project, the user is able to reserve seats in three auditoriums. There will be a prompt used to display which
